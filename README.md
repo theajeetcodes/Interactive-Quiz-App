@@ -48,17 +48,17 @@ Interactive-Quiz-App/
 
 ---
 
-  ## Purpose
--Practice JavaScript DOM manipulation
--Learn event handling and user interaction
--Build real-world interactive projects
--Improve frontend logic and UI skills
--Gain hands-on experience with GitHub workflow
+ ## Purpose
+- Practice JavaScript DOM manipulation
+- Learn event handling and user interaction
+- Build real-world interactive projects
+- Improve frontend logic and UI skills
+- Gain hands-on experience with GitHub workflow
 
 ---
 
 
-##👤 Author
+## 👤 Author
 **Ajeet Yadav**
 JavaScript Learner | Frontend Developer in Progress
 
