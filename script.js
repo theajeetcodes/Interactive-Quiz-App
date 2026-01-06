@@ -106,3 +106,18 @@ Submit.addEventListener("click", () => {
    
    
 });
+
+Reset.addEventListener("click", () => {
+    score = 0;
+    currentQuestion = 0;
+    selectedOption = null;
+
+    document.getElementById("score").innerText = "Score: 0";
+    document.getElementById("qNo").innerText = "Question: 0/" + questions.length;
+    document.getElementById("question").innerText = "Click Start to begin";
+
+    options.forEach(btn => {
+       btn.classList.remove("selected");
+       btn.innerText = "Option"; 
+    });
+});
